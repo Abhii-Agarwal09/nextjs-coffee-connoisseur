@@ -7,4 +7,13 @@
   border: none;
   border-radius: 8px;
   cursor: pointer;
+  transition: 0.3s ease all;
+}
+
+.button:hover {
+  background: #17171f;
+}
+
+.title_purple {
+  color: #3939fc;
 }
